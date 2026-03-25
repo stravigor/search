@@ -1,6 +1,6 @@
 {
   "name": "@stravigor/search",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "type": "module",
   "description": "Full-text search for the Strav framework",
   "license": "MIT",
